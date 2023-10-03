@@ -1,9 +1,6 @@
 # Machine Learning Case Studies 
 
-![image](https://github.com/Aftabbs/Machine-Learning-Case-Studies/assets/112916888/7f898153-f13e-4ff7-907d-8bb03510c8b3)
-
-![image](https://github.com/Aftabbs/Machine-Learning-Case-Studies/assets/112916888/8fd934a4-08c1-42de-89fb-c8d8d82b66b7)
-
+![image](https://github.com/Aftabbs/Machine-Learning-Case-Studies/assets/112916888/7f898153-f13e-4ff7-907d-8bb03510c8b3)    ![image](https://github.com/Aftabbs/Machine-Learning-Case-Studies/assets/112916888/8fd934a4-08c1-42de-89fb-c8d8d82b66b7)
 
 Welcome to the Machine Learning Case Studies Repository! This repository contains a collection of case studies where we apply Machine Learning techniques to solve real-world problems. Each case study is designed to help you understand how Machine Learning can be applied to address practical challenges. It was taught by our renowned faculties at our university.
 
@@ -52,8 +49,8 @@ The repository is organized as follows:
 
 ## Get Involved
 
-We encourage you to explore the case studies, work on them, and share your findings. If you have questions, ideas, or improvements to suggest, please open issues or create pull requests. Together, we can learn, grow, and contribute to the Machine Learning community.
+I encourage you to explore the case studies, work on them, and share your findings. If you have questions, ideas, or improvements to suggest, please open issues or create pull requests. Together, we can learn, grow, and contribute to the Machine Learning community.
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE), allowing you to use the materials for personal and educational purposes. Please review the license file for more details.
+This repository is licensed under the [GPL](./LICENSE), allowing you to use the materials for personal and educational purposes. Please review the license file for more details.
